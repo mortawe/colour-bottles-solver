@@ -1,0 +1,118 @@
+[
+    {
+        "Colours": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            4,
+            5,
+            6,
+            7
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            0,
+            6,
+            6,
+            8
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            4,
+            4,
+            1,
+            7
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            3,
+            9,
+            10,
+            11
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            4,
+            2,
+            9,
+            2
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            1,
+            5,
+            7,
+            11
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            10,
+            3,
+            1,
+            0
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            6,
+            11,
+            9,
+            10
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            3,
+            8,
+            5,
+            0
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            7,
+            9,
+            11,
+            2
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": [
+            5,
+            8,
+            10,
+            8
+        ],
+        "Capacity": 4
+    },
+    {
+        "Colours": null,
+        "Capacity": 4
+    },
+    {
+        "Colours": null,
+        "Capacity": 4
+    }
+]
